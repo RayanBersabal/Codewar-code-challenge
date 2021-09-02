@@ -7,7 +7,7 @@ what is OOP and it's four pillars
 
 
   
-## FAQ
+## Pillars
 
 #### Encapsulation
 
